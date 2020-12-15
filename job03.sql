@@ -1,0 +1,1 @@
+SELECT * FROM SQLjobs.etudiants;
